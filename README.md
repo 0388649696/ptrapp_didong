@@ -10,6 +10,8 @@
 Ngày giao nhiệm vụ: 25/05/2026 | 
 Ngày hoàn thành nhiệm vụ: 12/06/2026
 
+Báo cáo: **PDF + readme**
+
 # BÀI TẬP 1: PHÁT TRIỂN ỨNG DỤNG TRÊN NỀN TẢNG TRỰC QUAN MIT APP INVENTOR
 
 Thiết kế ứng dụng đa màn hình: Xây dựng hệ thống ứng dụng gồm 3 màn hình logic liên kết chặt chẽ với nhau, cấu hình nút bấm điều hướng mượt mà, không xảy ra xung đột luồng khi chuyển màn hình.
