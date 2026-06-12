@@ -7,7 +7,7 @@
 - Phần 2: Xây dựng ứng dụng Online kết nối Volley API trên Android Studio (Java)
 - Phần 3: Xây dựng ứng dụng Offline đọc file Assets trên Android Studio
 
-Ngày giao nhiệm vụ: 25/05/2026
+Ngày giao nhiệm vụ: 25/05/2026 | 
 Ngày hoàn thành nhiệm vụ: 12/06/2026
 
 # BÀI TẬP 1: PHÁT TRIỂN ỨNG DỤNG TRÊN NỀN TẢNG TRỰC QUAN MIT APP INVENTOR
