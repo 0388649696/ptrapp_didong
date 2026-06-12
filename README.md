@@ -3,9 +3,9 @@
 1.  Tên đề tài: Bài tập phát triển ứng dụng trên thiết bị di động
 2.  Nội dung thực hiện:
 
-Phần 1: Phát triển ứng dụng trên nền tảng trực quan MIT App Inventor. Xây dựng ứng dụng, tìm hiểu bản chất kỹ thuật của lập trình kéo thả khối Block và cơ chế tái sử dụng mã nguồn bằng tính năng Balo (Backpack).
-Phần 2: Xây dựng ứng dụng Online kết nối Volley API trên Android Studio (Java)
-Phần 3: Xây dựng ứng dụng Offline đọc file Assets trên Android Studio
+- Phần 1: Phát triển ứng dụng trên nền tảng trực quan MIT App Inventor. Xây dựng ứng dụng, tìm hiểu bản chất kỹ thuật của lập trình kéo thả khối Block và cơ chế tái sử dụng mã nguồn bằng tính năng Balo (Backpack).
+- Phần 2: Xây dựng ứng dụng Online kết nối Volley API trên Android Studio (Java)
+- Phần 3: Xây dựng ứng dụng Offline đọc file Assets trên Android Studio
 
 Ngày giao nhiệm vụ: 25/05/2026
 Ngày hoàn thành nhiệm vụ: 12/06/2026
